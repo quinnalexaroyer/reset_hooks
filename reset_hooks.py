@@ -1,3 +1,5 @@
+# You may want to run reset_pose.py first to clear transforms on the armature bones before running this script.
+
 import bpy
 
 for o in bpy.data.objects:
